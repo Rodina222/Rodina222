@@ -8,16 +8,16 @@ I am an AI Engineer dedicated to solving **real-life problems** through **Data S
 ### 🧠 Featured R&D & AI Engineering
 *Focusing on modular code, predictive modeling, and deep learning architectures.*
 
-- **[Neural-Network-from-Scratch](https://github.com/Rodina222/Neural-Network-from-Scratch)** | `Deep Learning` `NumPy`
+- **[Neural-Network-from-Scratch](https://github.com/Rodina222/Neural_Network_Mnist)** | `Deep Learning` `NumPy`
   A ground-up implementation of a CNN achieving 90% accuracy on the MNIST dataset without high-level frameworks, demonstrating deep understanding of backpropagation and optimization.
 
-- **[Reinforcement-Learning-Navigation](https://github.com/Rodina222/Reinforcement-Learning-Navigation)** | `Q-Learning` `Path Optimization`
+- **[Reinforcement-Learning-Navigation](https://github.com/Rodina222/Zewail-city-navigation-AI-program)** | `Q-Learning` `Path Optimization`
   AI system using Q-Learning to optimize travel routes within Zewail City, combining reinforcement learning with classic search algorithms (BFS/DFS).
 
-- **[Data-Impact-Analytics](https://github.com/Rodina222/COVID-19-Data-Impact-Analysis)** | `Statistical Inference` `Regression`
+- **[Data-Impact-Analytics](https://github.com/Rodina222/Analysis-of-U.S.-COVID-19-Data-Impact)** | `Statistical Inference` `Regression`
   Predictive analysis and statistical storytelling using large-scale datasets to identify demographic trends and future outcomes.
 
-- **[Bank-Marketing-Analysis](https://github.com/Rodina222/Bank-Marketing-Campaign-Analysis)** | `Data Visualization` `Storytelling`
+- **[Bank-Marketing-Analysis](https://github.com/Rodina222/Portugal-Bank-Marketing-Campaigns-Analysis)** | `Data Visualization` `Storytelling`
   Predictive modeling for client responses using Tableau and Python, focusing on statistical inference and actionable insights.
 
 ---
