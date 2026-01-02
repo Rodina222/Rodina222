@@ -67,5 +67,5 @@ I am an AI Engineer dedicated to solving **real-life problems** through **Data S
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/rodina-mohamed]([https://www.linkedin.com/in/rodinamohamed](https://www.linkedin.com/in/rodina-mohamed-b5391a1b5/))
+- **LinkedIn:** [linkedin.com/in/rodina-mohamed](https://www.linkedin.com/in/rodina-mohamed-b5391a1b5/)
 - **Goal:** Applying intelligent AI models to optimize next-generation communication infrastructure.
