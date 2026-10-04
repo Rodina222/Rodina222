@@ -34,7 +34,7 @@ Developed an end-to-end cloud-native conversational assistant for Ubuntu technic
 
 Developed and evaluated a lightweight adaptation of the Information Multi-Distillation Network (IMDN) for CPU-only image super-resolution, reducing the original model to **97K parameters** while maintaining competitive reconstruction quality.
 
-**Team Project** — *Update this with your specific contribution.*
+**Team Project** — Contributed to model development and evaluation, focusing on lightweight CNN architecture design and optimizing the model for CPU-based inference.
 
 ---
 
@@ -44,7 +44,7 @@ Developed and evaluated a lightweight adaptation of the Information Multi-Distil
 
 Implemented and compared multiple reinforcement learning algorithms, including **PPO, SAC, A2C, and TD3**, on the BipedalWalker environment, analyzing convergence speed, sample efficiency, and policy performance.
 
-**Team Project** — *Update this with your specific contribution (if applicable).*
+**Team Project** — Contributed to implementing and evaluating the reinforcement learning algorithms, comparing training behavior and assessing the resulting policies across different approaches.
 
 ---
 
