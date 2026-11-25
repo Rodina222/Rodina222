@@ -1,6 +1,6 @@
 # Hi there, I'm Rodina Mohamed 👋
 
-### Backend Engineer (Go) | AI/ML Engineer | Cloud & MLOps
+###  AI/ML Engineer | Cloud & MLOps | Backend Engineer (Go)
 
 I am a software engineer who builds backend systems in **Go** and intelligent systems with **Machine Learning and Generative AI**. I have contributed to open-source **Infrastructure as Code** in Go (Pulumi ThreeFold provider), built Go services and CLI tools, and shipped containerized applications with **Docker**, **CI/CD**, **Terraform**, and **AWS**. On the AI side, I fine-tune and deploy **Large Language Models** and build computer vision and reinforcement learning systems. With a foundation in **Communications Engineering** and an **MSc in AI and Data Science** (Queen's University), I combine solid software engineering with modern AI to solve real-world problems.
 
