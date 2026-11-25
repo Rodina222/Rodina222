@@ -1,8 +1,42 @@
 # Hi there, I'm Rodina Mohamed 👋
 
-### AI Engineer | Machine Learning Engineer | Generative AI
+### Backend Engineer (Go) | AI/ML Engineer | Cloud & MLOps
 
-I am an AI Engineer passionate about building intelligent systems using **Generative AI, Large Language Models, Machine Learning, Computer Vision, Reinforcement Learning, and MLOps**. I enjoy taking AI projects from research and experimentation to scalable, production-ready deployments. Backed by a strong foundation in **Communications Engineering**, **Python**, and **Go**, I combine modern AI techniques with robust software engineering to solve real-world problems.
+I am a software engineer who builds backend systems in **Go** and intelligent systems with **Machine Learning and Generative AI**. I have contributed to open-source **Infrastructure as Code** in Go (Pulumi ThreeFold provider), built Go services and CLI tools, and shipped containerized applications with **Docker**, **CI/CD**, **Terraform**, and **AWS**. On the AI side, I fine-tune and deploy **Large Language Models** and build computer vision and reinforcement learning systems. With a foundation in **Communications Engineering** and an **MSc in AI and Data Science** (Queen's University), I combine solid software engineering with modern AI to solve real-world problems.
+
+---
+
+## 💻 Go & Backend Projects
+
+### [Pulumi ThreeFold Provider](https://github.com/Rodina222/pulumi-threefold)
+
+`Go` `Pulumi` `Infrastructure as Code` `CI/CD` `Docker`
+
+Open-source contribution to the `grid_pulumi` provider for the ThreeFold Grid, built during my internship at Codescalers. Implemented core infrastructure-as-code resources in Go for the Pulumi registry, with **5 merged pull requests (28 commits)** covering the initial repository structure and CI/CD workflows, network resource CRUD operations, deployment resource implementation, and an FQDN gateway resource. Together these enable declarative provisioning of VMs, networks, and gateways on the ThreeFold decentralized grid.
+
+---
+
+### [Full-Stack Todo App](https://github.com/Rodina222/Todo-App)
+
+`Go` `Vue.js` `Swagger` `Cypress`
+
+Full-stack task management application with a **Go backend** and a Vue.js frontend. Includes API documentation with **Swagger** and automated end-to-end testing with **Cypress**.
+
+---
+
+### [Env-Server](https://github.com/Rodina222/Env-Server)
+
+`Go` `Backend`
+
+Secure backend service for managing environment-specific configurations across distributed systems.
+
+---
+
+### [GoMake](https://github.com/Rodina222/Go-make) • [INI Parser](https://github.com/Rodina222/INI-parser)
+
+`Go` `CLI`
+
+Reusable Go tools for automation and configuration management: **GoMake** runs commands from makefiles efficiently, and **INI Parser** is a Go package for reading and managing INI configuration files.
 
 ---
 
@@ -82,40 +116,6 @@ Designed an intelligent navigation system using Q-Learning combined with classic
 
 ---
 
-## 💻 Backend & Infrastructure Systems
-
-### [Pulumi Threefold Provider](https://github.com/Rodina222/pulumi-threefold)
-
-`Go` `Infrastructure as Code`
-
-Developed Infrastructure-as-Code solutions for the ThreeFold Grid using Go and Pulumi.
-
----
-
-### [Env-Server](https://github.com/Rodina222/Env-Server)
-
-`Go` `Backend`
-
-Built a secure backend service for managing environment-specific configurations across distributed systems.
-
----
-
-### [Full-Stack Todo App](https://github.com/Rodina222/Todo-App)
-
-`Vue.js` `Go` `Swagger` `Cypress`
-
-Developed a production-ready task management application featuring REST APIs, automated end-to-end testing, and interactive API documentation.
-
----
-
-### [GoMake](https://github.com/Rodina222/Go-make) • [INI Parser](https://github.com/Rodina222/INI-parser)
-
-`Go` `CLI`
-
-Developed reusable Go packages and CLI tools for automation and configuration management.
-
----
-
 ## 📡 Communications & Security Engineering
 
 ### [Reliable UDP Protocol](https://github.com/Rodina222/Reliable-UDP-Protocol-Networks)
@@ -136,25 +136,25 @@ Implemented the OpenPGP protocol using Cipher Feedback (CFB) mode for secure com
 
 ## 🛠️ Technical Skills
 
+- **Programming Languages:** Go (Golang), Python, SQL, JavaScript, TypeScript, C, C++.
+- **Backend & APIs:** Go, REST APIs, Swagger, Flask, FastAPI, Cypress (end-to-end testing), Vue.js, PostgreSQL, Microsoft SQL Server.
+- **Cloud & DevOps:** Docker, CI/CD, Git, Linux, Terraform, Pulumi, AWS (EC2, EMR, S3).
 - **Generative AI & LLMs:** Hugging Face Transformers, LoRA, QLoRA, PEFT, TRL, Unsloth, Ollama, LangSmith, Weights & Biases, Gradio.
 - **Machine Learning & AI:** PyTorch, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Reinforcement Learning, Computer Vision, Transfer Learning, Data Augmentation.
-- **Cloud & MLOps:** AWS (EC2, EMR), Terraform, Docker, Git, Linux.
 - **Analytics & Visualization:** Tableau, Matplotlib, Seaborn, Statistical Inference, Predictive Modeling.
-- **Programming Languages:** Python, Go (Golang), C, C++.
 - **Communications Engineering:** Digital Signal Processing (DSP), Wireless Communications, Network Protocols, Information Theory, MATLAB.
 
 ---
 
 ## 🏆 Highlights
 
+- **Software Engineer Intern** at **Codescalers Egypt**, where I contributed to open-source Infrastructure as Code (Pulumi ThreeFold Provider), developed backend services in Go, built frontend components with Vue.js, implemented automated end-to-end testing using Cypress, delivered internal technical seminars on Go concurrency and gRPC, and deployed containerized applications using Docker and ThreeFold Grid.
 - **R&D Machine Learning Engineer** at **EFIKA**, developing AI solutions for the renewable energy sector.
-- **Software Engineer Intern** at **Codescalers Egypt**, where I contributed to open-source Infrastructure as Code (Pulumi Threefold Provider), developed backend services in Go, built frontend components with Vue.js, implemented automated end-to-end testing using Cypress, delivered internal technical seminars on Go concurrency and gRPC, and deployed containerized applications using Docker and Threefold Grid.
 - Published fine-tuned Large Language Models on Hugging Face.
-
 
 ## 📫 Connect with Me
 
 - **LinkedIn:** https://www.linkedin.com/in/rodina-mohamed-kamal/
 - **Hugging Face:** https://huggingface.co/Rodina222
 
-I'm always interested in collaborating on projects involving **Generative AI, Large Language Models, Machine Learning, Computer Vision, Reinforcement Learning, and MLOps**.
+I'm always interested in collaborating on projects involving **Go and backend engineering, Infrastructure as Code, Generative AI, Machine Learning, and MLOps**.
