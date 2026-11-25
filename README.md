@@ -41,6 +41,13 @@ Reusable Go tools for automation and configuration management: **GoMake** runs c
 ---
 
 ## 🚀 Featured AI Projects
+### [CDSS Intake](https://github.com/Rodina222/cdss-intake)
+
+`Generative AI` `LLMs` `Speech-to-Text` `faster-whisper` `Streamlit` `Ollama` `Python`
+
+A doctor-in-the-loop orthopedic pre-consultation dashboard that turns role-played intake recordings or transcripts (Egyptian Arabic and English) into structured case data, evidence-linked answers, and reviewable reports. Audio is transcribed locally with **faster-whisper**, answers are extracted with a configurable LLM backend (**Ollama** or OpenCode), and every filled value must be supported by transcript evidence. A Streamlit dashboard covers doctor review, editing, and audit history, and an evaluation pipeline scores extraction against hand-written answer keys (precision, recall, F1, red-flag recall) and transcription quality (WER and CER). It is a decision-support prototype, not a diagnostic system.
+
+---
 
 ### [AI-Powered Fleet Dispatch System](https://github.com/Rodina222/elite-fleet-ai-dispatcher)
 
