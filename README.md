@@ -148,9 +148,12 @@ Implemented the OpenPGP protocol using Cipher Feedback (CFB) mode for secure com
 
 ## 🏆 Highlights
 
-- **Software Engineer Intern** at **Codescalers Egypt**, where I contributed to open-source Infrastructure as Code (Pulumi ThreeFold Provider), developed backend services in Go, built frontend components with Vue.js, implemented automated end-to-end testing using Cypress, delivered internal technical seminars on Go concurrency and gRPC, and deployed containerized applications using Docker and ThreeFold Grid.
+- **AI & Data Science Intern** at **Abou Ghaly Motors**, where I contributed to demand forecasting pipelines for a 400+ vehicle fleet (feature engineering on 1M+ trips across 78 operational zones) and to spare-parts demand forecasting using time-series models and backtesting.
 - **R&D Machine Learning Engineer** at **EFIKA**, developing AI solutions for the renewable energy sector.
 - Published fine-tuned Large Language Models on Hugging Face.
+- **Software Engineer Intern** at **Codescalers Egypt**, where I contributed to open-source Infrastructure as Code (Pulumi ThreeFold Provider), developed backend services in Go, built frontend components with Vue.js, implemented automated end-to-end testing using Cypress, delivered internal technical seminars on Go concurrency and gRPC, and deployed containerized applications using Docker and ThreeFold Grid.
+
+
 
 ## 📫 Connect with Me
 
